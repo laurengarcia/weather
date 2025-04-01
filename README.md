@@ -5,7 +5,7 @@ Uses a free api to get weather & weather alerts
 
 ## Quick Start
 - Clone this repo, run `npm install` then `npm run build`
-- In `claude_desktop_config.json`:
+- In `~/Library/Application Support/Claude/claude_desktop_config.json`:
 ```
 {
   "mcpServers": {
